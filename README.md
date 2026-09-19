@@ -1,3 +1,4 @@
 # skylark-bi-agent
 this a bi agent which help company to analyse its data and get celar info 
 Skylark BI Agent is a lightweight Python agent that automates data loading, cleaning, and analytics while providing conversational query/responder capabilities. It includes connectors for Monday.com, utilities for data preparation, and a small agent layer for extracting business insights and reports.
+Skylark BI Agent helps teams turn raw spreadsheets and project data into actionable business insights. It provides modules for data ingestion, cleaning, and repository-backed access, along with analytics and leadership reporting utilities. The agent component accepts natural-language queries and generates structured responses, and there's built-in integration with Monday.com for syncing tasks and metrics. Ideal for small teams who want automated BI workflows without heavy tooling.
